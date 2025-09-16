@@ -27,8 +27,8 @@ The frontend should be able to:
 
 ## Technical Requirements
 Here are a few starter repositories if you would like to use our tech stack:
-- [Backend Starter Repo](https://github.com/hmcts/hmcts-dev-test-backend)
-- [Frontend Starter Repo](https://github.com/hmcts/hmcts-dev-test-frontend)
+- [Backend Starter Repo](https://github.com/steve-davey/hmcts-dev-test-backend)
+- [Frontend Starter Repo](https://github.com/steve-davey/hmcts-dev-test-frontend)
 
 You can use any language you are comfortable with or our own stack:
 - **Backend**: Any language or framework of your choice
